@@ -1,0 +1,2 @@
+E:\C++_proj\Arkanoid_OpenGL\Project\OpenGL_Arkanoid_Vilisix\x64\Debug\OpenGL_Arkanoid_Vilisix.exe
+E:\C++_proj\Arkanoid_OpenGL\Project\OpenGL_Arkanoid_Vilisix\x64\Debug\OpenGL_Arkanoid_Vilisix.pdb
